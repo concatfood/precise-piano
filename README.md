@@ -1,5 +1,7 @@
 # Precise Piano
 
+![teaser](teaser.png)
+
 A simple pipeline for processing marker positions recorded by an OptiTrack system with the goal of hand joint tracking.
 
 This repository contains the implementation of the paper 'Precise Hand Pose Data Collection for Piano Players' submitted
